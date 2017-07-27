@@ -1,4 +1,4 @@
-# Base16 crosh
+# Base16 blink
 
 [Base16](https://github.com/chriskempson/base16) themes for
 [blink](https://github.com/blinksh). See [this
