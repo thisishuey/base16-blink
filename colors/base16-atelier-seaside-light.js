@@ -1,49 +1,47 @@
 // Base16 Atelier Seaside Light
 // Scheme: Bram de Haan (http://atelierbramdehaan.nl)
 
-var color_scheme = {
-        'base00': '#f4fbf4',
-        'base01': '#cfe8cf',
-        'base02': '#8ca68c',
-        'base03': '#809980',
-        'base04': '#687d68',
-        'base05': '#5e6e5e',
-        'base06': '#242924',
-        'base07': '#131513',
-        'base08': '#e6193c',
-        'base09': '#87711d',
-        'base0A': '#98981b',
-        'base0B': '#29a329',
-        'base0C': '#1999b3',
-        'base0D': '#3d62f5',
-        'base0E': '#ad2bee',
-        'base0F': '#e619c3',
-};
+base00 = '#f4fbf4';
+base01 = '#cfe8cf';
+base02 = '#8ca68c';
+base03 = '#809980';
+base04 = '#687d68';
+base05 = '#5e6e5e';
+base06 = '#242924';
+base07 = '#131513';
+base08 = '#e6193c';
+base09 = '#87711d';
+base0A = '#98981b';
+base0B = '#29a329';
+base0C = '#1999b3';
+base0D = '#3d62f5';
+base0E = '#ad2bee';
+base0F = '#e619c3';
 
-term_.prefs_.set('background-color', color_scheme.base00);
-term_.prefs_.set('foreground-color', color_scheme.base05);
-term_.prefs_.set('cursor-color', "rgba(94, 110, 94, 0.5)");
+t.prefs_.set('color-palette-overrides', 
+                        [base00,
+                        base08,
+                        base0B,
+                        base0A,
+                        base0D,
+                        base0E,
+                        base0C,
+                        base05,
+                        base03,
+                        base08,
+                        base0B,
+                        base0A,
+                        base0D,
+                        base0E,
+                        base0C,
+                        base07,
+                        base09,
+                        base0F,
+                        base01,
+                        base02,
+                        base04,
+                        base06]);
 
-term_.prefs_.set('color-palette-overrides', 
-                        [color_scheme.base00,
-                        color_scheme.base08,
-                        color_scheme.base0B,
-                        color_scheme.base0A,
-                        color_scheme.base0D,
-                        color_scheme.base0E,
-                        color_scheme.base0C,
-                        color_scheme.base05,
-                        color_scheme.base03,
-                        color_scheme.base08,
-                        color_scheme.base0B,
-                        color_scheme.base0A,
-                        color_scheme.base0D,
-                        color_scheme.base0E,
-                        color_scheme.base0C,
-                        color_scheme.base07,
-                        color_scheme.base09,
-                        color_scheme.base0F,
-                        color_scheme.base01,
-                        color_scheme.base02,
-                        color_scheme.base04,
-                        color_scheme.base06]);
+t.prefs_.set('cursor-color', "rgba(94, 110, 94, 0.5)");
+t.prefs_.set('foreground-color', color_scheme.base05);
+t.prefs_.set('background-color', color_scheme.base00);

@@ -1,49 +1,47 @@
 // Base16 Material
-// Scheme: Phil Jones
+// Scheme: Nate Peterson
 
-var color_scheme = {
-        'base00': '#212121',
-        'base01': '#424242',
-        'base02': '#616161',
-        'base03': '#757575',
-        'base04': '#BDBDBD',
-        'base05': '#E0E0E0',
-        'base06': '#EEEEEE',
-        'base07': '#F5F5F5',
-        'base08': '#E57373',
-        'base09': '#FFB74D',
-        'base0A': '#FFF176',
-        'base0B': '#81C784',
-        'base0C': '#4DD0E1',
-        'base0D': '#64B5F6',
-        'base0E': '#F06292',
-        'base0F': '#A1887F',
-};
+base00 = '#263238';
+base01 = '#2E3C43';
+base02 = '#314549';
+base03 = '#546E7A';
+base04 = '#B2CCD6';
+base05 = '#EEFFFF';
+base06 = '#EEFFFF';
+base07 = '#FFFFFF';
+base08 = '#F07178';
+base09 = '#F78C6C';
+base0A = '#FFCB6B';
+base0B = '#C3E88D';
+base0C = '#89DDFF';
+base0D = '#82AAFF';
+base0E = '#C792EA';
+base0F = '#FF5370';
 
-term_.prefs_.set('background-color', color_scheme.base00);
-term_.prefs_.set('foreground-color', color_scheme.base05);
-term_.prefs_.set('cursor-color', "rgba(224, 224, 224, 0.5)");
+t.prefs_.set('color-palette-overrides', 
+                        [base00,
+                        base08,
+                        base0B,
+                        base0A,
+                        base0D,
+                        base0E,
+                        base0C,
+                        base05,
+                        base03,
+                        base08,
+                        base0B,
+                        base0A,
+                        base0D,
+                        base0E,
+                        base0C,
+                        base07,
+                        base09,
+                        base0F,
+                        base01,
+                        base02,
+                        base04,
+                        base06]);
 
-term_.prefs_.set('color-palette-overrides', 
-                        [color_scheme.base00,
-                        color_scheme.base08,
-                        color_scheme.base0B,
-                        color_scheme.base0A,
-                        color_scheme.base0D,
-                        color_scheme.base0E,
-                        color_scheme.base0C,
-                        color_scheme.base05,
-                        color_scheme.base03,
-                        color_scheme.base08,
-                        color_scheme.base0B,
-                        color_scheme.base0A,
-                        color_scheme.base0D,
-                        color_scheme.base0E,
-                        color_scheme.base0C,
-                        color_scheme.base07,
-                        color_scheme.base09,
-                        color_scheme.base0F,
-                        color_scheme.base01,
-                        color_scheme.base02,
-                        color_scheme.base04,
-                        color_scheme.base06]);
+t.prefs_.set('cursor-color', "rgba(238, 255, 255, 0.5)");
+t.prefs_.set('foreground-color', color_scheme.base05);
+t.prefs_.set('background-color', color_scheme.base00);
