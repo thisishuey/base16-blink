@@ -1,5 +1,5 @@
 // Base16 Rebecca
-// Scheme: Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
+// Scheme: Victor Borja (http:&#x2F;&#x2F;github.com&#x2F;vic) based on Rebecca Theme (http:&#x2F;&#x2F;github.com&#x2F;vic&#x2F;rebecca-theme)
 
 base00 = '#292a44';
 base01 = '#663399';

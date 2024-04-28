@@ -1,5 +1,5 @@
 // Base16 Mocha
-// Scheme: Chris Kempson (http://chriskempson.com)
+// Scheme: Chris Kempson (http:&#x2F;&#x2F;chriskempson.com)
 
 base00 = '#3B3228';
 base01 = '#534636';

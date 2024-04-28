@@ -1,5 +1,5 @@
 // Base16 One Light
-// Scheme: Daniel Pfeifer (http://github.com/purpleKarrot)
+// Scheme: Daniel Pfeifer (http:&#x2F;&#x2F;github.com&#x2F;purpleKarrot)
 
 base00 = '#fafafa';
 base01 = '#f0f0f1';

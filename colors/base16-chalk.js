@@ -1,5 +1,5 @@
 // Base16 Chalk
-// Scheme: Chris Kempson (http://chriskempson.com)
+// Scheme: Chris Kempson (http:&#x2F;&#x2F;chriskempson.com)
 
 base00 = '#151515';
 base01 = '#202020';

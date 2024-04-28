@@ -1,5 +1,5 @@
 // Base16 Brewer
-// Scheme: Timothée Poisot (http://github.com/tpoisot)
+// Scheme: Timothée Poisot (http:&#x2F;&#x2F;github.com&#x2F;tpoisot)
 
 base00 = '#0c0d0e';
 base01 = '#2e2f30';

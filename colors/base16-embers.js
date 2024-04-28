@@ -1,5 +1,5 @@
 // Base16 Embers
-// Scheme: Jannik Siebert (https://github.com/janniks)
+// Scheme: Jannik Siebert (https:&#x2F;&#x2F;github.com&#x2F;janniks)
 
 base00 = '#16130F';
 base01 = '#2C2620';

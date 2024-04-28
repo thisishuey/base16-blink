@@ -1,5 +1,5 @@
 // Base16 Grayscale Dark
-// Scheme: Alexandre Gavioli (https://github.com/Alexx2/)
+// Scheme: Alexandre Gavioli (https:&#x2F;&#x2F;github.com&#x2F;Alexx2&#x2F;)
 
 base00 = '#101010';
 base01 = '#252525';

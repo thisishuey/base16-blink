@@ -1,5 +1,5 @@
 // Base16 Ashes
-// Scheme: Jannik Siebert (https://github.com/janniks)
+// Scheme: Jannik Siebert (https:&#x2F;&#x2F;github.com&#x2F;janniks)
 
 base00 = '#1C2023';
 base01 = '#393F45';

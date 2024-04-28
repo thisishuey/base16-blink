@@ -1,5 +1,5 @@
 // Base16 PhD
-// Scheme: Hennig Hasemann (http://leetless.de/vim.html)
+// Scheme: Hennig Hasemann (http:&#x2F;&#x2F;leetless.de&#x2F;vim.html)
 
 base00 = '#061229';
 base01 = '#2a3448';

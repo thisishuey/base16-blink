@@ -1,5 +1,5 @@
 // Base16 Pico
-// Scheme: PICO-8 (http://www.lexaloffle.com/pico-8.php)
+// Scheme: PICO-8 (http:&#x2F;&#x2F;www.lexaloffle.com&#x2F;pico-8.php)
 
 base00 = '#000000';
 base01 = '#1d2b53';

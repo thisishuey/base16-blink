@@ -1,22 +1,22 @@
-// Base16 IR Black
-// Scheme: Timothée Poisot (http://timotheepoisot.fr)
+// Base16 lime
+// Scheme: limelier
 
-base00 = '#000000';
-base01 = '#242422';
-base02 = '#484844';
-base03 = '#6c6c66';
-base04 = '#918f88';
-base05 = '#b5b3aa';
-base06 = '#d9d7cc';
-base07 = '#fdfbee';
-base08 = '#ff6c60';
-base09 = '#e9c062';
-base0A = '#ffffb6';
-base0B = '#a8ff60';
-base0C = '#c6c5fe';
-base0D = '#96cbfe';
-base0E = '#ff73fd';
-base0F = '#b18a3d';
+base00 = '#1a1a2f';
+base01 = '#202030';
+base02 = '#2a2a3f';
+base03 = '#313140';
+base04 = '#515155';
+base05 = '#818175';
+base06 = '#fff2d1';
+base07 = '#fff8e1';
+base08 = '#ff662a';
+base09 = '#ff773a';
+base0A = '#ffd15e';
+base0B = '#8cd97c';
+base0C = '#4cad83';
+base0D = '#2b926f';
+base0E = '#1b825f';
+base0F = '#b4d97c';
 
 t.prefs_.set('color-palette-overrides', 
                         [base00,
@@ -42,6 +42,6 @@ t.prefs_.set('color-palette-overrides',
                         base04,
                         base06]);
 
-t.prefs_.set('cursor-color', "rgba(181, 179, 170, 0.5)");
+t.prefs_.set('cursor-color', "rgba(129, 129, 117, 0.5)");
 t.prefs_.set('foreground-color', base05);
 t.prefs_.set('background-color', base00);

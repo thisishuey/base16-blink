@@ -1,5 +1,5 @@
 // Base16 Macintosh
-// Scheme: Rebecca Bettencourt (http://www.kreativekorp.com)
+// Scheme: Rebecca Bettencourt (http:&#x2F;&#x2F;www.kreativekorp.com)
 
 base00 = '#000000';
 base01 = '#404040';

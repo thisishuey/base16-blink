@@ -1,5 +1,5 @@
 // Base16 Atelier Forest Light
-// Scheme: Bram de Haan (http://atelierbramdehaan.nl)
+// Scheme: Bram de Haan (http:&#x2F;&#x2F;atelierbramdehaan.nl)
 
 base00 = '#f1efee';
 base01 = '#e6e2e0';

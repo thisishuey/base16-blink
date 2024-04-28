@@ -1,5 +1,5 @@
 // Base16 Summerfruit Dark
-// Scheme: Christopher Corley (http://christop.club/)
+// Scheme: Christopher Corley (http:&#x2F;&#x2F;christop.club&#x2F;)
 
 base00 = '#151515';
 base01 = '#202020';

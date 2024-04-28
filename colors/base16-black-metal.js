@@ -1,22 +1,22 @@
-// Base16 Green Screen
-// Scheme: Chris Kempson (http://chriskempson.com)
+// Base16 Black Metal
+// Scheme: metalelf0 (https:&#x2F;&#x2F;github.com&#x2F;metalelf0)
 
-base00 = '#001100';
-base01 = '#003300';
-base02 = '#005500';
-base03 = '#007700';
-base04 = '#009900';
-base05 = '#00bb00';
-base06 = '#00dd00';
-base07 = '#00ff00';
-base08 = '#007700';
-base09 = '#009900';
-base0A = '#007700';
-base0B = '#00bb00';
-base0C = '#005500';
-base0D = '#009900';
-base0E = '#00bb00';
-base0F = '#005500';
+base00 = '#000000';
+base01 = '#121212';
+base02 = '#222222';
+base03 = '#333333';
+base04 = '#999999';
+base05 = '#c1c1c1';
+base06 = '#999999';
+base07 = '#c1c1c1';
+base08 = '#5f8787';
+base09 = '#aaaaaa';
+base0A = '#a06666';
+base0B = '#dd9999';
+base0C = '#aaaaaa';
+base0D = '#888888';
+base0E = '#999999';
+base0F = '#444444';
 
 t.prefs_.set('color-palette-overrides', 
                         [base00,
@@ -42,6 +42,6 @@ t.prefs_.set('color-palette-overrides',
                         base04,
                         base06]);
 
-t.prefs_.set('cursor-color', "rgba(0, 187, 0, 0.5)");
+t.prefs_.set('cursor-color', "rgba(193, 193, 193, 0.5)");
 t.prefs_.set('foreground-color', base05);
 t.prefs_.set('background-color', base00);

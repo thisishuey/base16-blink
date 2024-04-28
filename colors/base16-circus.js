@@ -1,5 +1,5 @@
 // Base16 Circus
-// Scheme: Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)
+// Scheme: Stephan Boyer (https:&#x2F;&#x2F;github.com&#x2F;stepchowfun) and Esther Wang (https:&#x2F;&#x2F;github.com&#x2F;ewang12)
 
 base00 = '#191919';
 base01 = '#202020';

@@ -1,5 +1,5 @@
 // Base16 Classic Dark
-// Scheme: Jason Heeris (http://heeris.id.au)
+// Scheme: Jason Heeris (http:&#x2F;&#x2F;heeris.id.au)
 
 base00 = '#151515';
 base01 = '#202020';

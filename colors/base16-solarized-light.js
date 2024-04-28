@@ -1,5 +1,5 @@
 // Base16 Solarized Light
-// Scheme: Ethan Schoonover (http://ethanschoonover.com/solarized)
+// Scheme: Ethan Schoonover (modified by aramisgithub)
 
 base00 = '#fdf6e3';
 base01 = '#eee8d5';

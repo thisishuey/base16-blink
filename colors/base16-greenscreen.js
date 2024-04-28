@@ -1,22 +1,22 @@
-// Base16 Solar Flare
-// Scheme: Chuck Harmston (https://chuck.harmston.ch)
+// Base16 Green Screen
+// Scheme: Chris Kempson (http:&#x2F;&#x2F;chriskempson.com)
 
-base00 = '#18262F';
-base01 = '#222E38';
-base02 = '#586875';
-base03 = '#667581';
-base04 = '#85939E';
-base05 = '#A6AFB8';
-base06 = '#E8E9ED';
-base07 = '#F5F7FA';
-base08 = '#EF5253';
-base09 = '#E66B2B';
-base0A = '#E4B51C';
-base0B = '#7CC844';
-base0C = '#52CBB0';
-base0D = '#33B5E1';
-base0E = '#A363D5';
-base0F = '#D73C9A';
+base00 = '#001100';
+base01 = '#003300';
+base02 = '#005500';
+base03 = '#007700';
+base04 = '#009900';
+base05 = '#00bb00';
+base06 = '#00dd00';
+base07 = '#00ff00';
+base08 = '#007700';
+base09 = '#009900';
+base0A = '#007700';
+base0B = '#00bb00';
+base0C = '#005500';
+base0D = '#009900';
+base0E = '#00bb00';
+base0F = '#005500';
 
 t.prefs_.set('color-palette-overrides', 
                         [base00,
@@ -42,6 +42,6 @@ t.prefs_.set('color-palette-overrides',
                         base04,
                         base06]);
 
-t.prefs_.set('cursor-color', "rgba(166, 175, 184, 0.5)");
+t.prefs_.set('cursor-color', "rgba(0, 187, 0, 0.5)");
 t.prefs_.set('foreground-color', base05);
 t.prefs_.set('background-color', base00);

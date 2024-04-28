@@ -1,5 +1,5 @@
 // Base16 Gruvbox light, soft
-// Scheme: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+// Scheme: Dawid Kurek (dawikur@gmail.com), morhetz (https:&#x2F;&#x2F;github.com&#x2F;morhetz&#x2F;gruvbox)
 
 base00 = '#f2e5bc';
 base01 = '#ebdbb2';

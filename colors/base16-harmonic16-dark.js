@@ -1,5 +1,5 @@
 // Base16 Harmonic16 Dark
-// Scheme: Jannik Siebert (https://github.com/janniks)
+// Scheme: Jannik Siebert (https:&#x2F;&#x2F;github.com&#x2F;janniks)
 
 base00 = '#0b1c2c';
 base01 = '#223b54';

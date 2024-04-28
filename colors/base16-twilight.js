@@ -1,5 +1,5 @@
 // Base16 Twilight
-// Scheme: David Hart (https://github.com/hartbit)
+// Scheme: David Hart (https:&#x2F;&#x2F;github.com&#x2F;hartbit)
 
 base00 = '#1e1e1e';
 base01 = '#323537';

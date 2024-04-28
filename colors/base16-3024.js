@@ -1,5 +1,5 @@
 // Base16 3024
-// Scheme: Jan T. Sott (http://github.com/idleberg)
+// Scheme: Jan T. Sott (http:&#x2F;&#x2F;github.com&#x2F;idleberg)
 
 base00 = '#090300';
 base01 = '#3a3432';

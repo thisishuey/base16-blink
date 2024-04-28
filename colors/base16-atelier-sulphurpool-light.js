@@ -1,5 +1,5 @@
 // Base16 Atelier Sulphurpool Light
-// Scheme: Bram de Haan (http://atelierbramdehaan.nl)
+// Scheme: Bram de Haan (http:&#x2F;&#x2F;atelierbramdehaan.nl)
 
 base00 = '#f5f7ff';
 base01 = '#dfe2f1';

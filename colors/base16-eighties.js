@@ -1,5 +1,5 @@
 // Base16 Eighties
-// Scheme: Chris Kempson (http://chriskempson.com)
+// Scheme: Chris Kempson (http:&#x2F;&#x2F;chriskempson.com)
 
 base00 = '#2d2d2d';
 base01 = '#393939';

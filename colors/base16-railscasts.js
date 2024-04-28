@@ -1,5 +1,5 @@
 // Base16 Railscasts
-// Scheme: Ryan Bates (http://railscasts.com)
+// Scheme: Ryan Bates (http:&#x2F;&#x2F;railscasts.com)
 
 base00 = '#2b2b2b';
 base01 = '#272935';

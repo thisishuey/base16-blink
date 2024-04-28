@@ -1,5 +1,5 @@
 // Base16 Cupcake
-// Scheme: Chris Kempson (http://chriskempson.com)
+// Scheme: Chris Kempson (http:&#x2F;&#x2F;chriskempson.com)
 
 base00 = '#fbf1f2';
 base01 = '#f2f1f4';

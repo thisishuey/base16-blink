@@ -1,5 +1,5 @@
 // Base16 Spacemacs
-// Scheme: Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)
+// Scheme: Nasser Alshammari (https:&#x2F;&#x2F;github.com&#x2F;nashamri&#x2F;spacemacs-theme)
 
 base00 = '#1f2022';
 base01 = '#282828';

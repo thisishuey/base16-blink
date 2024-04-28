@@ -1,5 +1,5 @@
 // Base16 Apathy
-// Scheme: Jannik Siebert (https://github.com/janniks)
+// Scheme: Jannik Siebert (https:&#x2F;&#x2F;github.com&#x2F;janniks)
 
 base00 = '#031A16';
 base01 = '#0B342D';

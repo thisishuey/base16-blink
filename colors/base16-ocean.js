@@ -1,5 +1,5 @@
 // Base16 Ocean
-// Scheme: Chris Kempson (http://chriskempson.com)
+// Scheme: Chris Kempson (http:&#x2F;&#x2F;chriskempson.com)
 
 base00 = '#2b303b';
 base01 = '#343d46';

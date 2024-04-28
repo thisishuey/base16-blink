@@ -1,5 +1,5 @@
 // Base16 Atelier Savanna
-// Scheme: Bram de Haan (http://atelierbramdehaan.nl)
+// Scheme: Bram de Haan (http:&#x2F;&#x2F;atelierbramdehaan.nl)
 
 base00 = '#171c19';
 base01 = '#232a25';

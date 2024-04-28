@@ -1,5 +1,5 @@
 // Base16 Atelier Dune Light
-// Scheme: Bram de Haan (http://atelierbramdehaan.nl)
+// Scheme: Bram de Haan (http:&#x2F;&#x2F;atelierbramdehaan.nl)
 
 base00 = '#fefbec';
 base01 = '#e8e4cf';

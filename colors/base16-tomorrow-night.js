@@ -1,5 +1,5 @@
 // Base16 Tomorrow Night
-// Scheme: Chris Kempson (http://chriskempson.com)
+// Scheme: Chris Kempson (http:&#x2F;&#x2F;chriskempson.com)
 
 base00 = '#1d1f21';
 base01 = '#282a2e';

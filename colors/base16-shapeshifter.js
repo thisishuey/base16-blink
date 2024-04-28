@@ -1,5 +1,5 @@
 // Base16 Shapeshifter
-// Scheme: Tyler Benziger (http://tybenz.com)
+// Scheme: Tyler Benziger (http:&#x2F;&#x2F;tybenz.com)
 
 base00 = '#f9f9f9';
 base01 = '#e0e0e0';

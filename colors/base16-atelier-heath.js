@@ -1,5 +1,5 @@
 // Base16 Atelier Heath
-// Scheme: Bram de Haan (http://atelierbramdehaan.nl)
+// Scheme: Bram de Haan (http:&#x2F;&#x2F;atelierbramdehaan.nl)
 
 base00 = '#1b181b';
 base01 = '#292329';

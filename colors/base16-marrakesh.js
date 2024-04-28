@@ -1,5 +1,5 @@
 // Base16 Marrakesh
-// Scheme: Alexandre Gavioli (http://github.com/Alexx2/)
+// Scheme: Alexandre Gavioli (http:&#x2F;&#x2F;github.com&#x2F;Alexx2&#x2F;)
 
 base00 = '#201602';
 base01 = '#302e00';

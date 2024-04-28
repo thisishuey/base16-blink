@@ -1,22 +1,22 @@
-// Base16 Seti UI
-// Scheme: 
+// Base16 Da One White
+// Scheme: NNB (https:&#x2F;&#x2F;github.com&#x2F;NNBnh)
 
-base00 = '#151718';
-base01 = '#8ec43d';
-base02 = '#3B758C';
-base03 = '#41535B';
-base04 = '#43a5d5';
-base05 = '#d6d6d6';
-base06 = '#eeeeee';
-base07 = '#ffffff';
-base08 = '#Cd3f45';
-base09 = '#db7b55';
-base0A = '#e6cd69';
-base0B = '#9fca56';
-base0C = '#55dbbe';
-base0D = '#55b5db';
-base0E = '#a074c4';
-base0F = '#8a553f';
+base00 = '#ffffff';
+base01 = '#c8c8c8';
+base02 = '#888888';
+base03 = '#585858';
+base04 = '#282828';
+base05 = '#181818';
+base06 = '#000000';
+base07 = '#000000';
+base08 = '#de5d6e';
+base09 = '#ff9470';
+base0A = '#b3684f';
+base0B = '#76a85d';
+base0C = '#64b5a7';
+base0D = '#5890f8';
+base0E = '#c173d1';
+base0F = '#b3684f';
 
 t.prefs_.set('color-palette-overrides', 
                         [base00,
@@ -42,6 +42,6 @@ t.prefs_.set('color-palette-overrides',
                         base04,
                         base06]);
 
-t.prefs_.set('cursor-color', "rgba(214, 214, 214, 0.5)");
+t.prefs_.set('cursor-color', "rgba(24, 24, 24, 0.5)");
 t.prefs_.set('foreground-color', base05);
 t.prefs_.set('background-color', base00);

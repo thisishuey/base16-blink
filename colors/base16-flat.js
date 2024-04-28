@@ -1,5 +1,5 @@
 // Base16 Flat
-// Scheme: Chris Kempson (http://chriskempson.com)
+// Scheme: Chris Kempson (http:&#x2F;&#x2F;chriskempson.com)
 
 base00 = '#2C3E50';
 base01 = '#34495E';

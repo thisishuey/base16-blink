@@ -1,5 +1,5 @@
 // Base16 Dracula
-// Scheme: Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)
+// Scheme: Mike Barkmin (http:&#x2F;&#x2F;github.com&#x2F;mikebarkmin) based on Dracula Theme (http:&#x2F;&#x2F;github.com&#x2F;dracula)
 
 base00 = '#282936';
 base01 = '#3a3c4e';

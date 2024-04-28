@@ -1,5 +1,5 @@
 // Base16 Atelier Seaside
-// Scheme: Bram de Haan (http://atelierbramdehaan.nl)
+// Scheme: Bram de Haan (http:&#x2F;&#x2F;atelierbramdehaan.nl)
 
 base00 = '#131513';
 base01 = '#242924';

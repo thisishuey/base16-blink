@@ -1,5 +1,5 @@
 // Base16 Atelier Seaside Light
-// Scheme: Bram de Haan (http://atelierbramdehaan.nl)
+// Scheme: Bram de Haan (http:&#x2F;&#x2F;atelierbramdehaan.nl)
 
 base00 = '#f4fbf4';
 base01 = '#cfe8cf';

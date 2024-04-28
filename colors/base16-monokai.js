@@ -1,5 +1,5 @@
 // Base16 Monokai
-// Scheme: Wimer Hazenberg (http://www.monokai.nl)
+// Scheme: Wimer Hazenberg (http:&#x2F;&#x2F;www.monokai.nl)
 
 base00 = '#272822';
 base01 = '#383830';

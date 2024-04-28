@@ -1,5 +1,5 @@
 // Base16 OneDark
-// Scheme: Lalit Magant (http://github.com/tilal6991)
+// Scheme: Lalit Magant (http:&#x2F;&#x2F;github.com&#x2F;tilal6991)
 
 base00 = '#282c34';
 base01 = '#353b45';

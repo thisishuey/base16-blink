@@ -1,5 +1,5 @@
 // Base16 Darktooth
-// Scheme: Jason Milkins (https://github.com/jasonm23)
+// Scheme: Jason Milkins (https:&#x2F;&#x2F;github.com&#x2F;jasonm23)
 
 base00 = '#1D2021';
 base01 = '#32302F';

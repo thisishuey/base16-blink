@@ -1,5 +1,5 @@
 // Base16 OceanicNext
-// Scheme: https://github.com/voronianski/oceanic-next-color-scheme
+// Scheme: https:&#x2F;&#x2F;github.com&#x2F;voronianski&#x2F;oceanic-next-color-scheme
 
 base00 = '#1B2B34';
 base01 = '#343D46';

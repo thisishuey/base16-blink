@@ -1,5 +1,5 @@
 // Base16 Default Light
-// Scheme: Chris Kempson (http://chriskempson.com)
+// Scheme: Chris Kempson (http:&#x2F;&#x2F;chriskempson.com)
 
 base00 = '#f8f8f8';
 base01 = '#e8e8e8';

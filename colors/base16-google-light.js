@@ -1,5 +1,5 @@
 // Base16 Google Light
-// Scheme: Seth Wright (http://sethawright.com)
+// Scheme: Seth Wright (http:&#x2F;&#x2F;sethawright.com)
 
 base00 = '#ffffff';
 base01 = '#e0e0e0';

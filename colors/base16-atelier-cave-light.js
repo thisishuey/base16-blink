@@ -1,5 +1,5 @@
 // Base16 Atelier Cave Light
-// Scheme: Bram de Haan (http://atelierbramdehaan.nl)
+// Scheme: Bram de Haan (http:&#x2F;&#x2F;atelierbramdehaan.nl)
 
 base00 = '#efecf4';
 base01 = '#e2dfe7';

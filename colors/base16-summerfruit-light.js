@@ -1,5 +1,5 @@
 // Base16 Summerfruit Light
-// Scheme: Christopher Corley (http://christop.club/)
+// Scheme: Christopher Corley (http:&#x2F;&#x2F;christop.club&#x2F;)
 
 base00 = '#FFFFFF';
 base01 = '#E0E0E0';

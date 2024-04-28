@@ -1,5 +1,5 @@
 // Base16 Woodland
-// Scheme: Jay Cornwall (https://jcornwall.com)
+// Scheme: Jay Cornwall (https:&#x2F;&#x2F;jcornwall.com)
 
 base00 = '#231e18';
 base01 = '#302b25';
